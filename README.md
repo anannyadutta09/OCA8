@@ -1,3 +1,14 @@
 # OCA8
+- http://mahaljsp.asuscomm.com/index.php/2019/02/22/ocp-808-exams-1/
 - http://mahaljsp.asuscomm.com/index.php/2020/04/15/oca-808-exams-3/
-- ooo
+- http://mahaljsp.asuscomm.com/index.php/2020/04/14/ocp-808-exams-2/
+- http://mahaljsp.asuscomm.com/index.php/2020/04/16/oca-808-exams-4/
+- https://chercher.tech/java-certification/java-se-8-certification-ocajp-1z0-808-practice-tests-set-33
+- https://chercher.tech/java-certification/java-se-8-certification-ocajp-1z0-808-practice-tests-set-1
+- https://github.com/manoharreddyporeddy/programming-language-notes/blob/master/oracle-java-certifications/j8__oca__1Z0-808.md
+- https://www.study4exam.com/opt_demo/online.php
+- https://www.gratisexam.com/oracle/1z0-808-exam/
+- https://free-braindumps.com/oracle/free-1z0-808-braindumps.html?p=2
+- https://www.dbexam.com/oracle/oracle-1z0-808-certification-sample-questions-and-answers
+- https://www.dbexam.com/oracle/1z0-808-java-se-8-programmer-i
+- https://www.certification-questions.com/oracle-exam/1z0-808-dumps.html
