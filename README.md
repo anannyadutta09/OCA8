@@ -12,3 +12,5 @@
 - https://www.dbexam.com/oracle/oracle-1z0-808-certification-sample-questions-and-answers
 - https://www.dbexam.com/oracle/1z0-808-java-se-8-programmer-i
 - https://www.certification-questions.com/oracle-exam/1z0-808-dumps.html
+- https://www.aiotestkinguk.com/dumps/1z0-808/page-1746.html
+- https://topgradeapp.com/lesson/get-new-oracle-1z0-808-exam-dumps-2021-prepare-well-1z0-808-questions
